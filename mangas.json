@@ -1,5 +1,4 @@
-{
-    "Mangas": [
+"Mangas": [
       {
         "name": "Kill la Kill",
         "img": "https://raw.githubusercontent.com/Vinicius-DevSys/all_my_mangas/refs/heads/main/imagens/kill%20la%20kill%201.jpg",
@@ -19,4 +18,3 @@
         "spent": 5.0,
       }
     ]
-}
