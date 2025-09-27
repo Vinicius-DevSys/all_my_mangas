@@ -1,0 +1,22 @@
+{
+    "Mangas": [
+      {
+        "name": "Kill la Kill",
+        "img": "url",
+        "volume": 1,
+        "spent": 15.0,
+      },
+      {
+        "name": "Kill la Kill",
+        "img": "url",
+        "volume": 2,
+        "spent": 15.0,
+      },
+      {
+        "name": "Kill la Kill",
+        "img": "url",
+        "volume": 3,
+        "spent": 5.0,
+      }
+    ]
+}
