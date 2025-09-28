@@ -18,8 +18,9 @@
                     "img": "https://raw.githubusercontent.com/Vinicius-DevSys/all_my_mangas/refs/heads/main/imagens/kill%20la%20kill%203.jpg",
                     "spent": 5.0
                 }
-            },
-            {
+            ]
+        },
+        {
             "name": "All You Need Is Kill",
             "volumes": [
                 {
