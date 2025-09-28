@@ -17,7 +17,8 @@
                     "volume": 3,
                     "img": "https://raw.githubusercontent.com/Vinicius-DevSys/all_my_mangas/refs/heads/main/imagens/kill%20la%20kill%203.jpg",
                     "spent": 5.0
-                },
+                }
+            },
             {
             "name": "All You Need Is Kill",
             "volumes": [
@@ -30,7 +31,6 @@
                     "volume": 2,
                     "img": "https://raw.githubusercontent.com/Vinicius-DevSys/all_my_mangas/refs/heads/main/imagens/All%20You%20Need%20Is%20Kill%202.jpg",
                     "spent": 15.0
-                }
                 }
             ]
         }
