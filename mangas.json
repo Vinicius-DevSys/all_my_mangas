@@ -23,12 +23,12 @@
             "volumes": [
                 {
                     "volume": 1,
-                    "img": "https://raw.githubusercontent.com/Vinicius-DevSys/all_my_mangas/refs/heads/main/imagens/kill%20la%20kill%201.jpg",
+                    "img": "https://raw.githubusercontent.com/Vinicius-DevSys/all_my_mangas/refs/heads/main/imagens/All%20You%20Need%20Is%20Kill%201.jpg",
                     "spent": 15.0
                 },
                 {
                     "volume": 2,
-                    "img": "https://raw.githubusercontent.com/Vinicius-DevSys/all_my_mangas/refs/heads/main/imagens/kill%20la%20kill%202.jpg",
+                    "img": "https://raw.githubusercontent.com/Vinicius-DevSys/all_my_mangas/refs/heads/main/imagens/All%20You%20Need%20Is%20Kill%202.jpg",
                     "spent": 15.0
                 }
             ]
