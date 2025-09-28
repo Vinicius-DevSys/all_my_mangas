@@ -1,6 +1,7 @@
 {
-    "Mangas": {
-        "Kill la Kill": {
+    "Mangas": [
+        {
+            "name": "Kill la Kill",
             "volumes": [
                 {
                     "volume": 1,
@@ -19,19 +20,4 @@
                 }
             ]
         },
-        "All You Need Is Kill": {
-            "volumes": [
-                {
-                    "volume": 1,
-                    "img": "https://raw.githubusercontent.com/Vinicius-DevSys/all_my_mangas/refs/heads/main/imagens/kill%20la%20kill%203.jpg",
-                    "spent": 10.0
-                },
-                {
-                    "volume": 2,
-                    "img": "https://raw.githubusercontent.com/Vinicius-DevSys/all_my_mangas/refs/heads/main/imagens/kill%20la%20kill%203.jpg",
-                    "spent": 10.0
-                }
-            ]
-        }
-    }
 }
